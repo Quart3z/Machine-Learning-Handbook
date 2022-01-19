@@ -3,7 +3,7 @@
 It is considered a field of study concerning techniques driven by statistics to enable computers to learn through experience. Usually seen as a part of artificial intelligence.
 
 ### Supervised learning
-#### Classification                                  
+[Classification](./Supervised-Learning/classification.md)                          
 - classification of test data into specific categories
 - binary, multi class, multi label
 - SVM, random forest
