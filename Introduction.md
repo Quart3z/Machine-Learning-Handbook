@@ -5,8 +5,6 @@ It is considered a field of study concerning techniques driven by statistics to 
 ### Supervised learning
 [Classification](./Supervised-Learning/classification.md)                          
 - classification of test data into specific categories
-- binary, multi class, multi label
-- SVM, random forest
 - examples: seperating apples from orange
 #### Regression                                 
 - to understand the relationship between dependent and independent variables
