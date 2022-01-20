@@ -5,14 +5,14 @@ It is considered a field of study concerning techniques driven by statistics to 
 ### Supervised learning
 - defined as uses of labeled datasets on model training
 - examples:
-    - [Classification](.Types-of-Learning/Supervised-Learning/classification.md)                        
-    - [Regression](.Types-of-Learning/Supervised-Learning/regression.md)                                       
+    - [Classification](./Types-of-Learning/Supervised-Learning/classification.md)                        
+    - [Regression](./Types-of-Learning/Supervised-Learning/regression.md)                                       
 ---
 
 ### Unsupervised learning
 - examples:
-    - [Clustering](.Types-of-Learning/Unsupervised-Learning/clustering.md)    
-    - [Association](.Types-of-Learning/Unsupervised-Learning/association.md)    
+    - [Clustering](./Types-of-Learning/Unsupervised-Learning/clustering.md)    
+    - [Association](./Types-of-Learning/Unsupervised-Learning/association.md)    
     - [Dimensionality reduction](.Types-of-Learning/Unsupervised-Learning/dimensionalityReduction.md)    
 ---
 
