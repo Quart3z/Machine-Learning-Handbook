@@ -1,0 +1,2 @@
+- grouping unlabeled data based on similarities/differences
+- examples: grouping of customer by purchasing behaviour

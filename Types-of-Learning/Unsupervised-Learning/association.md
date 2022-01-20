@@ -1,0 +1,2 @@
+- find the relationship between variables and given datasets
+- examples: analysis of recommendation engine, recommender system on customer purchase

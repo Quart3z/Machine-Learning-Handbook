@@ -1,0 +1,2 @@
+- reduce the number of data inputs to manageable size, while preserving data integrity
+- examples: remove noise from visual data
