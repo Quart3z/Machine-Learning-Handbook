@@ -5,7 +5,9 @@
 - adjustment of the threshold to shifting the focus onto certain class
 - optimal value for the threshold based on ROC curve
 
-![logistic curve](./logistic_curve.png)
+<p align="center">
+  <img src="./logisticCurve.png/">
+</p>
 
 ---
 | One vs All | One vs One |

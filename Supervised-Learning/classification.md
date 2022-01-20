@@ -19,4 +19,4 @@
 | Class 1 | Class 2 |
 |---|---|
 | based on dichotomous distinction of classes | based on probability of y given that x |
-| SVM | Logistic regression<br/> K-nearest neighbors<br/> Decision tree|
+| [SVM](../Statistical-Model/SVM/svm.md) |  [Logistic regression](../Statistical-Model/Logistic-Regression/logisticRegression.md)<br/> K-nearest neighbors<br/> Decision tree|
