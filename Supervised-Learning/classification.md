@@ -1,3 +1,5 @@
+## Classification
+
 ### Binary
 - with 2 class labels
 - e.g. true/false, 0/1
