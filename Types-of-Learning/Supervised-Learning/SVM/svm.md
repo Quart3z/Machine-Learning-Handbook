@@ -1,5 +1,5 @@
 ## Support Vector Machine (SVM)
-
+[< classification](../classification.md)
 - find a hyperplane, that distinctly classifies the data points
 - with optimal margin of the data points and hyperplane, and maximum distance between data points of classes with enough space and confidence for future additional data points
 - support vectors, data points that are closer to the hyperplane, manipulate it to alter the position and size of hyperplane

@@ -1,2 +1,3 @@
-- grouping unlabeled data based on similarities/differences
-- examples: grouping of customer by purchasing behaviour
+- to discover latent structure in data, partition data set into different clusters, which each subset share some common characters
+- no labels are required. 
+- internal distance should be small, external distance should be large.

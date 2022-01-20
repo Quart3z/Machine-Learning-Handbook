@@ -1,5 +1,5 @@
 ## k-Nearest Neighbours
-
+[< classification](../classification.md)
 - classifies training data based on similarity measures (distances)
 - distance functions:
   - Minkowsky
