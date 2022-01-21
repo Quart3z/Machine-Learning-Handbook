@@ -1,21 +1,13 @@
 ## Classification
-- classification of test data into specific categories
-- examples: seperating apples from orange
-- classification tasks can be categorized into several category as stated below.
+[< supervised learning](../../Introduction.md)
 
-### Binary Classification
-- with 2 class labels, such as true/false, 0/1
-- algorithms: logistic regression, support vector machine, decision tree, k-Nearest Neighbours
+Main objective of classification task is to identify the test data into specific and different classes. The tasks can be divided into several categories as stated below.
 
-### Multiclass Classification
-- with more than 2 class labels
-- algorithms: logistic regression, support vector machine, decision tree, k-Nearest neighbours, naive Bayes, random forest
+ Binary Classification | Multiclass Classification | Multilabel Classification
+---|---|---
+with 2 class labels, such as true/false, 0/1 | with more than 2 class labels | with 2 or more class labels, where 1 or more labels may be predicted
+|logistic regression</br> support vector machine</br> decision tree</br> k-Nearest Neighbours|logistic regression</br> support vector machine</br> decision tree</br> k-Nearest neighbours</br> naive Bayes</br> random forest|decision tree,</br> random forest
 
-### Multilabel Classification
-- with 2 or more class labels, where 1 or more labels may be predicted
-- e.g. photo classification, where given photo may have multiple objects in the scene
-- algorithms: decision tree, random forest
----
 
 ### DIfferent approaches of data classifications
 | Class 1 | Class 2 |
