@@ -18,7 +18,5 @@ High train accuracy, low validation accuracy | Low train accuracy and validation
 Train with more data | Increase model complexity
 Remove irrelevant features | Increase feature
 Early stopping | Increase epochs or duration of training
-Regularizations | Decrease/remove regularization
- - L1 (Lasso) Regularization
- - L2 (Ridge) Regularization
+Regularizations:</br> - L1 (Lasso) Regularization</br> - L2 (Ridge) Regularization| Decrease/remove regularization
 
