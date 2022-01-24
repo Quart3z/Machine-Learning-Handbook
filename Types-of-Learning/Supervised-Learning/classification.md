@@ -42,4 +42,4 @@ Main objective of classification task is to identify the test data into specific
 | based on dichotomous distinction of classes | based on probability of y given that x |
 | [SVM](SVM/svm.md) |  [Logistic regression](Logistic-Regression/logisticRegression.md)<br/> [k-nearest neighbours](k-Nearest-Neighbours/k-NearestNeighbours.md)<br/> [Decision tree](Decision-Tree/decisionTree.md)| -->
 
-[^1]: Jason Brownlee. (2020, August 19). *4 Types of Classification Tasks in Machine Learning* https://machinelearningmastery.com/types-of-classification-in-machine-learning/
+[^1]: Jason Brownlee. (2020, August 19). *4 Types of Classification Tasks in Machine Learning.* https://machinelearningmastery.com/types-of-classification-in-machine-learning/
